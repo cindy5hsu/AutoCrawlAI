@@ -9,7 +9,9 @@ Excel 儲存結構化數據
 
 💡 提升可維護性與可擴展性
 模組化設計：fetch_page_selenium、save_to_excel
+
 易於擴充更多分類或調整格式
 
 時間戳記管理 Excel 檔案：
+
 確保歷史數據不被覆蓋，便於追蹤變化
